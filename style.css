@@ -4,14 +4,14 @@ body{
 }
 
 #score{
-    font-size: 15px;
-    margin-left: 200px;
+    font-size: 30px;
+    margin-left: 100px;
     font-family: sans-serif;
 }
 
 #timer{
-    font-size: 15px;
-    margin-right: 300px;
+    font-size: 30px;
+    margin-left: 900px;
     font-family: sans-serif;
 }
 
